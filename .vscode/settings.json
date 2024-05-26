@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.vscode": true,
+        "**/.gitignore": true,
+        ".pytest_cache": true,
+        "__pycache__": true
+    },
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "inlayHints.pytestParameters": true
+}
