@@ -16,6 +16,43 @@ You can use the play button to run the application on any file, you can run usin
 $ python hello.py
 ```
 
+## Python Virtual Environments
+
+
+After cloning this project create a new virtual environment:
+
+```
+On vscode
+1 - Type ctrl+p
+2 - Select "Python: Select Interpreter"
+3 - Select "Create Virtual Environment"
+```
+
+or
+
+```
+$ python -m venv .venv
+$ source ./.venv/bin/activate
+```
+
+And install the packages:
+
+```bash
+$ pip install -r requirements.txt 
+```
+
+When installing a new package make sure to update the package requirements:
+
+```bash
+$ pip freeze > requirements.txt
+```
+
+To deactivate an environment just do:
+
+```bash
+$ deactivate
+```
+
 ## References
 
 ```

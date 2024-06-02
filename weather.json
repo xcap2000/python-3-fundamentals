@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "Orlando",
+        "region": "Florida",
+        "country": "United States of America",
+        "lat": 28.54,
+        "lon": -81.38,
+        "tz_id": "America/New_York",
+        "localtime_epoch": 1717296042,
+        "localtime": "2024-06-01 22:40"
+    },
+    "current": {
+        "last_updated_epoch": 1717295400,
+        "last_updated": "2024-06-01 22:30",
+        "temp_c": 24.4,
+        "temp_f": 75.9,
+        "is_day": 0,
+        "condition": {
+            "text": "Clear",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+            "code": 1000
+        },
+        "wind_mph": 8.1,
+        "wind_kph": 13.0,
+        "wind_degree": 100,
+        "wind_dir": "E",
+        "pressure_mb": 1020.0,
+        "pressure_in": 30.13,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 60,
+        "cloud": 0,
+        "feelslike_c": 25.7,
+        "feelslike_f": 78.2,
+        "windchill_c": 24.1,
+        "windchill_f": 75.5,
+        "heatindex_c": 25.5,
+        "heatindex_f": 78.0,
+        "dewpoint_c": 15.0,
+        "dewpoint_f": 59.0,
+        "vis_km": 16.0,
+        "vis_miles": 9.0,
+        "uv": 1.0,
+        "gust_mph": 17.6,
+        "gust_kph": 28.3
+    }
+}

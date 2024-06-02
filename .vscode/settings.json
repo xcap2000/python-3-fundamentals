@@ -6,7 +6,8 @@
         "**/.vscode": true,
         "**/.gitignore": true,
         ".pytest_cache": true,
-        "__pycache__": true
+        "__pycache__": true,
+        ".venv": true
     },
     "python.testing.pytestArgs": [
         "."
