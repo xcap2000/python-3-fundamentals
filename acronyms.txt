@@ -7,4 +7,6 @@ LIFO - Last In First Out
 TDD - Test Driven Development
 SaaS - Software as a Service
 PasS - Platform as a Service
-IaaS - Infrastructure as a Service
+IaaS - Infrastructure as a ServiceML - Machine Learning
+ML - Machine Learning
+AI - Artificial Intelligence
