@@ -53,6 +53,13 @@ To deactivate an environment just do:
 $ deactivate
 ```
 
+## ChatGPT Ask
+
+```
+Please write a python 3 application that will organize the files on your desktop into subfolders based on file
+extensions such as images, documents, and zip archives.
+```
+
 ## References
 
 ```
@@ -62,4 +69,5 @@ https://sentry.io/answers/what-is-init-py-for-in-python/
 https://stackoverflow.com/questions/448271/what-is-init-py-for
 https://superuser.com/questions/828737/run-python-scripts-without-explicitly-invoking-python
 https://stackoverflow.com/questions/13187641/run-python-programs-without-opening-a-separate-shell
+https://chatgpt.com/
 ```
