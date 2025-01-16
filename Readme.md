@@ -23,7 +23,7 @@ After cloning this project create a new virtual environment:
 
 ```
 On vscode
-1 - Type ctrl+p
+1 - Type ctrl+shift+p
 2 - Select "Python: Select Interpreter"
 3 - Select "Create Virtual Environment"
 ```
