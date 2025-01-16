@@ -2,12 +2,12 @@
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
     "files.exclude": {
-        "**/.git": false,
-        "**/.vscode": false,
-        "**/.gitignore": false,
-        ".pytest_cache": false,
-        "__pycache__": false,
-        ".venv": false
+        "**/.git": true,
+        "**/.vscode": true,
+        "**/.gitignore": true,
+        ".pytest_cache": true,
+        "__pycache__": true,
+        ".venv": true
     },
     "python.testing.pytestArgs": [
         "."
